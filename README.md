@@ -1,5 +1,5 @@
 # epluribusloonum
-Requirements: Numpy, Pandas
+Requirements: Numpy, Pandas, seaborn, matplotlib
 
 Analysis of loons subs, MLS games, all years
 
